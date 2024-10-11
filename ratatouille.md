@@ -7,3 +7,5 @@ yellow squash
 eggplant
 zucchini
 tomatoes
+garlic
+

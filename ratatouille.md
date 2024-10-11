@@ -3,5 +3,7 @@
 
 ## Ingredients 
 
-squash 
+yellow squash 
 eggplant
+zucchini
+tomatoes
